@@ -29,7 +29,7 @@ https://prako227g.github.io/Ball-Game-Web-Development/
 4)The game ends when the character cannot move further upward, and your score is displayed.
 
 ## Future Improvements:
-Implement levels with increasing difficulty.
-Add sound effects and background music.
-Integrate touch support for mobile devices.
+1) Implement levels with increasing difficulty.
+2) Add sound effects and background music.
+3) Integrate touch support for mobile devices.
 ---
